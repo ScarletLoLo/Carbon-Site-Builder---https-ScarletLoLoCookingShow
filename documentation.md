@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Recipes
-category: documentation
+category: Recipes
 permalink: /documentation
 ---
