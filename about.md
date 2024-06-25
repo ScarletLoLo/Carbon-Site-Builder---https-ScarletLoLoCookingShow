@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
   
+  
 The Scarlet Lo-Lo 
 Cooking Show
 
@@ -13,9 +14,9 @@ Expect simple, healthy vegetarian food, with the occasional guest cook for fish.
 I’m not here to prescribe what you should do, but just to share what helps me feel good, retain health, and live in tune with nature. I’ve collected and developed many favourite recipes over the years and also share heritage recipes, which deserve to be re-discovered.
 We’ll use simple and seasonal ingredients (I grow my own veg) with basic tools and techniques, whilst having fun and always keeping it interesting with herbs & spices.
 You know yourself better than anyone else. A little is more than nothing and if you would like to learn some vegetarian and fishy recipes, I’ll show you the lo-lo way to go.
-
 ••• Just search on your browser “scarlet lolo cooking” •••
-
 https://www.instagram.com/scarletlolocooking/
 https://www.youtube.com/channel/UC-QKov-MFzGrsURO2tdwxwg
 https://www.patreon.com/scarletlolocookingshow
+https://www.redbubble.com/people/scarletlolo2/shop
+
