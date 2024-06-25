@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
+title: Trailer
 category: resources
 permalink: /resources
 ---
