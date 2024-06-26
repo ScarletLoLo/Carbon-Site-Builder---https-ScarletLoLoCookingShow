@@ -1,8 +1,8 @@
 ---
 layout: category
 title: Healthier Lifestyle
-category: facts
-permalink: /facts
+category: health
+permalink: /health
 ---
 m not here to prescribe what you should do, but just to share what
 helps me feel good, retain health, and live in tune with nature. I’ve
