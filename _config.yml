@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Scarlet Lo-Lo "
+title:		           "Scarlet Lo-Lo  Cooking"
 description:	       "Lo-Lo stands for low salt and low sugar"
-author:              "Scarlet Lo-Lo Cooking"
+author:              "Scarlet Lo-Lo"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
