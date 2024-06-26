@@ -12,3 +12,7 @@ vegetarian food, with the occasional guest cook for sh. We’ll also have
 some nice but naughty sweet treats, of course!
 
 <img src="https://i.ibb.co/SfS6zkg/Borscht-Thumb.jpg" alt="Borscht-Thumb" border="0">
+
+The show is on Youtube!
+<img src="https://i.ibb.co/8znZppN/Pumpkin-Thumb.jpg" alt="Pumpkin-Thumb" border="0">
+https://www.instagram.com/scarletlolocooking/
