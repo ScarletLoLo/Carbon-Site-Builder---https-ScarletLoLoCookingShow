@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-#- {name: 'Health',  url: 'facts'}
+- {name: 'Health',  url: 'facts'}
 - {name: 'Trailer', url: 'resources'}
 - {name: 'Shows',       url: 'sample-posts'}
 #- {name: 'Documentation',      url: 'documentation'}
