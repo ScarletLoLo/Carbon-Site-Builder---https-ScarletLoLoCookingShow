@@ -6,13 +6,11 @@ paginate:            5
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           /:The Scarlet Lo-Lo 
-Cooking Show
+permalink:           /Scarlet Lo-Lo 
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "The Scarlet Lo-Lo 
-Cooking Show"
+title:		           "Scarlet Lo-Lo "
 ![image]([img]https://i.ibb.co/C8VxGVy/Lo-Lo-Logo22.png[/img])
 description:	       "a minimalist Jekyll theme for running a blog or publication"
 author:              "Paul Le"
