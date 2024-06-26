@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://www.youtube.com/channel/UC-QKov-MFzGrsURO2tdwxwg'}
+- {icon: 'youtube', link:    'https://www.youtube.com/channel/UC-QKov-MFzGrsURO2tdwxwg'}
 - {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
 - {icon: 'instagram', link:  'https://www.instagram.com/scarletlolocooking/'}
 - {icon: 'envelope', link:   'mailto:scarletlolocooking@gmail.com'}
