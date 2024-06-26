@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Healthier Lifestyle
+title: Health
 category: health
 permalink: /health
 ---
