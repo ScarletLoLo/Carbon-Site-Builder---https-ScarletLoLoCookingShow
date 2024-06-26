@@ -4,10 +4,11 @@ title: Shows
 category: shows
 permalink: /shows
 ---
-All my recipes are on instagram, just click the link top right....
-We’ll use simple and seasonal ingredients (I grow much of my own
-veg), using basic tools and techniques, whilst having fun and always
-keeping it interesting with herbs & spices. You know yourself better
-than anyone else. A little is more than nothing and if you would
-like to learn some vegetarian and shy recipes,
-I’ll show you the Lo-Lo way to go.....
+The Scarlet Lo-LoCooking Show
+# ...is now on YouTube!
+Lo-Lo cooking uses principles that are natural, environmentally respectful,
+and sustainable, in order to create wonderful meals. Expect simple, healthy
+vegetarian food, with the occasional guest cook for sh. We’ll also have
+some nice but naughty sweet treats, of course!
+
+<img src="https://i.ibb.co/SfS6zkg/Borscht-Thumb.jpg" alt="Borscht-Thumb" border="0">
