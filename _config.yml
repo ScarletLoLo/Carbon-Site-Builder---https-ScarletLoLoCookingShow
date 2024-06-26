@@ -6,14 +6,14 @@ paginate:            5
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           /Scarlet Lo-Lo 
+permalink:           /title 
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Scarlet Lo-Lo "
 ![image]([img]https://i.ibb.co/C8VxGVy/Lo-Lo-Logo22.png[/img])
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+description:	       "Lo-Lo stands for low salt and low sugar"
+author:              "Scarlet LoLo"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
