@@ -12,5 +12,5 @@ than anyone else. A little is more than nothing and if you would
 like to learn some vegetarian and shy recipes,
 I’ll show you the Lo-Lo way to go.....
 
-
+<img src="https://i.ibb.co/8znZppN/Pumpkin-Thumb.jpg" alt="Pumpkin-Thumb" border="0">
 https://www.instagram.com/scarletlolocooking/
