@@ -10,7 +10,7 @@ menu:
 - {name: 'Health',  url: 'health'}
 - {name: 'Trailer', url: 'trailer'}
 - {name: 'Shows',       url: 'shows'}
-#- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Recipes',      url: 'recipes'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
